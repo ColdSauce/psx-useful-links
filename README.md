@@ -10,12 +10,19 @@ Remember that these links might have a lot of misleading information so take all
 
 Anyways, to the links.
 
-http://unhaut.x10host.com/psxsdk/
-https://0x7b.de/inoue/
-http://www.psxdev.net/forum/viewtopic.php?f=53&t=40
-http://problemkaputt.de/psx-spx.htm
-https://psx0.wordpress.com/
-https://en.wikipedia.org/wiki/PlayStation_technical_specifications
-Modding to get same effect as dev kit: http://www.psxdev.net/forum/viewtopic.php?f=70&t=655
+* http://unhaut.x10host.com/psxsdk/
+
+* https://0x7b.de/inoue/
+
+* http://www.psxdev.net/forum/viewtopic.php?f=53&t=40
+
+* http://problemkaputt.de/psx-spx.htm
+
+* https://psx0.wordpress.com/
+
+* https://en.wikipedia.org/wiki/PlayStation_technical_specifications
+
+* Modding to get same effect as dev kit: http://www.psxdev.net/forum/viewtopic.php?f=70&t=655
 https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.mandrakeitalia.org%2Fguide%2Fguide%2Fprogrammare-la-playstation-con-linux&edit-text=&act=url
-The greatest thing I have ever read on the internet: http://www.raphnet.net/electronique/psx_adaptor/Playstation.txt
+
+* The greatest thing I have ever read on the internet: http://www.raphnet.net/electronique/psx_adaptor/Playstation.txt

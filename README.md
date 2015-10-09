@@ -8,6 +8,8 @@ I will also be writing a script that takes all of these websites and saves them 
 
 Remember that these links might have a lot of misleading information so take all of them with a grain of salt. I have very little knowledge about the PSX. I just started and I'm pretty much using this for myself and my friends. But I wanted other people to have a chance to see it as well because it might be a bit useful.
 
+If you would like to contribute, feel free to fork this and send me a PR.
+
 Anyways, to the links.
 
 * http://unhaut.x10host.com/psxsdk/

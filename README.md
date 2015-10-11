@@ -28,3 +28,5 @@ Anyways, to the links.
 https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.mandrakeitalia.org%2Fguide%2Fguide%2Fprogrammare-la-playstation-con-linux&edit-text=&act=url
 
 * The greatest thing I have ever read on the internet: http://www.raphnet.net/electronique/psx_adaptor/Playstation.txt
+
+* https://github.com/zargener/psxsdkdoc

@@ -30,3 +30,5 @@ https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8
 * The greatest thing I have ever read on the internet: http://www.raphnet.net/electronique/psx_adaptor/Playstation.txt
 
 * https://github.com/zargener/psxsdkdoc
+
+* http://problemkaputt.de/psx-spx.htm
